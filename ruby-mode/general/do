@@ -2,7 +2,6 @@
 # name: do end
 # key: do
 # binding: direct-keybinding
-# type: command
 # --
 do
 

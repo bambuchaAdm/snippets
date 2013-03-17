@@ -2,6 +2,5 @@
 # name: |
 # key: |
 # binding: direct-keybinding
-# type: command
 # --
 |$1|$0
