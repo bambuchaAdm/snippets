@@ -3,7 +3,7 @@
 # key: do
 # binding: direct-keybinding
 # --
-do $2
-  $1
+do $1
+  $2
 end
 $0
